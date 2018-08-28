@@ -235,27 +235,27 @@ function qqkf(){
 </div>
         <div class="banner">
             <ul class="rslides f980x240 rslides1" style="max-width: 980px;">
-                        <li id="rslides1_s0" class="" style="display: none; float: none; position: absolute;">
+                        <li id="rslides1_s0" class="" style="auto: true; display: none; float: none; position: absolute;">
                             <a href="/index.php/index/game/80/72/腾讯分分彩">
                                 <img src="/images/uploads/1/1.jpg">
                             </a>
                         </li>
-                                            <!--li id="rslides1_s1" class="" style="display: none; float: none; position: absolute;">
+                                            <id="rslides1_s1" class="" style="auto: true; display: none; float: none; position: absolute;">
                             <a href="/index.php/score/yongjin">
                                 <img src="/images/uploads/1/2.jpg">
                             </a>
                         </li>
-                        <li id="rslides1_s2" class="" style="display: none; float: none; position: absolute;">
+                        <li id="rslides1_s2" class="" style="auto: true; display: none; float: none; position: absolute;">
                             <a href="/index.php/score/yongjin">
                                 <img src="/images/uploads/1/3.jpg">
                             </a>
                         </li>
-                        <li id="rslides1_s3" class="" style="display: none; float: none; position: absolute;">
-                            <a datatype="json" call="indexSign" target="ajax" href="/index.php/score/chuangguan">
+                        <li id="rslides1_s3" class="" style="auto: true; display: none; float: none; position: absolute;">
+                            <a href="/index.php/score/chuangguan">
                                 <img src="/images/uploads/1/4.jpg">
                             </a>
                         </li>
-                                            <li id="rslides1_s4" style="display: none; float: none; position: absolute;">
+                                            <li id="rslides1_s4" style="auto: true; display: none; float: none; position: absolute;">
                             <a href="/index.php/score/zadan">
                                 <img src="/images/uploads/1/5.jpg">
                             </a>

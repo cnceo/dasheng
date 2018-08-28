@@ -1,0 +1,6 @@
+[28-Aug-2018 16:59:57 Asia/Shanghai] PHP Warning:  include(../class/BiApi.class.php): failed to open stream: No such file or directory in /data/wwwroot/daSheng/AgGame/index.php on line 3
+[28-Aug-2018 16:59:57 Asia/Shanghai] PHP Warning:  include(../class/BiApi.class.php): failed to open stream: No such file or directory in /data/wwwroot/daSheng/AgGame/index.php on line 3
+[28-Aug-2018 16:59:57 Asia/Shanghai] PHP Warning:  include(): Failed opening '../class/BiApi.class.php' for inclusion (include_path='.:/usr/local/php/lib/php') in /data/wwwroot/daSheng/AgGame/index.php on line 3
+[28-Aug-2018 16:59:57 Asia/Shanghai] PHP Notice:  Undefined index: gameType in /data/wwwroot/daSheng/AgGame/index.php on line 6
+[28-Aug-2018 16:59:57 Asia/Shanghai] PHP Notice:  Undefined index: GameType in /data/wwwroot/daSheng/AgGame/index.php on line 9
+[28-Aug-2018 16:59:57 Asia/Shanghai] PHP Fatal error:  Class 'Biapi' not found in /data/wwwroot/daSheng/AgGame/index.php on line 14
