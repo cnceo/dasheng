@@ -25,3 +25,13 @@
 [28-Aug-2018 16:10:22 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 10 in /data/wwwroot/daSheng/mypay/notify.php on line 36
 [28-Aug-2018 16:24:08 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 6 in /data/wwwroot/daSheng/mypay/notify.php on line 28
 [28-Aug-2018 16:28:16 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 6 in /data/wwwroot/daSheng/mypay/notify.php on line 28
+[28-Aug-2018 18:09:50 Asia/Shanghai] PHP Notice:  Undefined index: p3_Amt in /data/wwwroot/daSheng/mypay/pay.php on line 4
+[28-Aug-2018 18:09:50 Asia/Shanghai] PHP Notice:  Undefined index: p2_Order in /data/wwwroot/daSheng/mypay/pay.php on line 5
+[28-Aug-2018 18:09:50 Asia/Shanghai] PHP Notice:  Undefined index: pa_MP in /data/wwwroot/daSheng/mypay/pay.php on line 6
+[28-Aug-2018 18:54:53 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 6 in /data/wwwroot/daSheng/mypay/notify.php on line 28
+[28-Aug-2018 19:20:47 Asia/Shanghai] PHP Notice:  Undefined index: p3_Amt in /data/wwwroot/daSheng/mypay/pay.php on line 4
+[28-Aug-2018 19:20:47 Asia/Shanghai] PHP Notice:  Undefined index: p2_Order in /data/wwwroot/daSheng/mypay/pay.php on line 5
+[28-Aug-2018 19:20:47 Asia/Shanghai] PHP Notice:  Undefined index: pa_MP in /data/wwwroot/daSheng/mypay/pay.php on line 6
+[28-Aug-2018 19:20:50 Asia/Shanghai] PHP Notice:  Undefined index: p3_Amt in /data/wwwroot/daSheng/mypay/pay.php on line 4
+[28-Aug-2018 19:20:50 Asia/Shanghai] PHP Notice:  Undefined index: p2_Order in /data/wwwroot/daSheng/mypay/pay.php on line 5
+[28-Aug-2018 19:20:50 Asia/Shanghai] PHP Notice:  Undefined index: pa_MP in /data/wwwroot/daSheng/mypay/pay.php on line 6

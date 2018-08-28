@@ -1,4 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title><?=$this->settings['webName']?></title>
@@ -236,11 +236,11 @@ function qqkf(){
         <div class="banner">
             <ul class="rslides f980x240 rslides1" style="max-width: 980px;">
                         <li id="rslides1_s0" class="" style="auto: true; display: none; float: none; position: absolute;">
-                            <a href="/index.php/index/game/80/72/腾讯分分彩">
+                            <a href="/index.php/index/game/20/北京PK拾">
                                 <img src="/images/uploads/1/1.jpg">
                             </a>
                         </li>
-                                            <id="rslides1_s1" class="" style="auto: true; display: none; float: none; position: absolute;">
+                        <li id="rslides1_s1" class="" style="auto: true; display: none; float: none; position: absolute;">
                             <a href="/index.php/score/yongjin">
                                 <img src="/images/uploads/1/2.jpg">
                             </a>
@@ -251,12 +251,12 @@ function qqkf(){
                             </a>
                         </li>
                         <li id="rslides1_s3" class="" style="auto: true; display: none; float: none; position: absolute;">
-                            <a href="/index.php/score/chuangguan">
+                              <a href="/index.php/score/chuangguan">
                                 <img src="/images/uploads/1/4.jpg">
                             </a>
                         </li>
-                                            <li id="rslides1_s4" style="auto: true; display: none; float: none; position: absolute;">
-                            <a href="/index.php/score/zadan">
+                            <li id="rslides1_s4" style="auto: true; display: none; float: none; position: absolute;">
+                              <a href="/index.php/score/zadan">
                                 <img src="/images/uploads/1/5.jpg">
                             </a>
                         </li-->
@@ -401,7 +401,7 @@ function qqkf(){
 			</p>
 			<p class="t-right">
 				未满18周岁禁止购买<br>
-				Copyright ©  2012-2018  版权所有
+				Copyright ©  2012-2018  【大盛国际】版权所有
 			</p>
 		</div>
 	</div>
