@@ -8,7 +8,7 @@ require 'web_config.php';
 
 $agent = $_SERVER['HTTP_USER_AGENT'];
 if(strpos($agent,"comFront") || strpos($agent,"iPhone") || strpos($agent,"MIDP-2.0") || strpos($agent,"Opera Mini") || strpos($agent,"UCWEB") || strpos($agent,"Android") || strpos($agent,"Windows CE") || strpos($agent,"SymbianOS"))
-header("Location:http://m.is66666.com/");
+header("Location:http://www.big268.com/");
 
 $para=array();
 
