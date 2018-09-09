@@ -49,3 +49,161 @@
 [29-Aug-2018 14:14:58 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /data/wwwroot/daSheng/mypay/notify.php on line 34
 [29-Aug-2018 14:14:58 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 10 in /data/wwwroot/daSheng/mypay/notify.php on line 36
 [29-Aug-2018 14:36:17 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 6 in /data/wwwroot/daSheng/mypay/notify.php on line 28
+[29-Aug-2018 17:06:55 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 6 in /data/wwwroot/daSheng/mypay/notify.php on line 28
+[29-Aug-2018 17:18:25 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 6 in /data/wwwroot/daSheng/mypay/notify.php on line 28
+[29-Aug-2018 17:18:25 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 7 in /data/wwwroot/daSheng/mypay/notify.php on line 30
+[29-Aug-2018 17:18:25 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /data/wwwroot/daSheng/mypay/notify.php on line 32
+[29-Aug-2018 17:18:25 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /data/wwwroot/daSheng/mypay/notify.php on line 34
+[29-Aug-2018 17:18:25 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 10 in /data/wwwroot/daSheng/mypay/notify.php on line 36
+[29-Aug-2018 19:14:59 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 6 in /data/wwwroot/daSheng/mypay/notify.php on line 28
+[29-Aug-2018 19:14:59 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 7 in /data/wwwroot/daSheng/mypay/notify.php on line 30
+[29-Aug-2018 19:14:59 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /data/wwwroot/daSheng/mypay/notify.php on line 32
+[29-Aug-2018 19:14:59 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /data/wwwroot/daSheng/mypay/notify.php on line 34
+[29-Aug-2018 19:14:59 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 10 in /data/wwwroot/daSheng/mypay/notify.php on line 36
+[30-Aug-2018 22:24:59 Asia/Shanghai] PHP Notice:  Undefined index: p3_Amt in /data/wwwroot/daSheng/mypay/pay.php on line 4
+[30-Aug-2018 22:24:59 Asia/Shanghai] PHP Notice:  Undefined index: p2_Order in /data/wwwroot/daSheng/mypay/pay.php on line 5
+[30-Aug-2018 22:24:59 Asia/Shanghai] PHP Notice:  Undefined index: pa_MP in /data/wwwroot/daSheng/mypay/pay.php on line 6
+[30-Aug-2018 22:37:40 Asia/Shanghai] PHP Notice:  Undefined index: p3_Amt in /data/wwwroot/daSheng/mypay/pay.php on line 4
+[30-Aug-2018 22:37:40 Asia/Shanghai] PHP Notice:  Undefined index: p2_Order in /data/wwwroot/daSheng/mypay/pay.php on line 5
+[30-Aug-2018 22:37:40 Asia/Shanghai] PHP Notice:  Undefined index: pa_MP in /data/wwwroot/daSheng/mypay/pay.php on line 6
+[30-Aug-2018 22:39:02 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 6 in /data/wwwroot/daSheng/mypay/notify.php on line 28
+[31-Aug-2018 10:22:09 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 6 in /data/wwwroot/daSheng/mypay/notify.php on line 28
+[31-Aug-2018 10:23:12 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 6 in /data/wwwroot/daSheng/mypay/notify.php on line 28
+[31-Aug-2018 10:24:15 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 6 in /data/wwwroot/daSheng/mypay/notify.php on line 28
+[31-Aug-2018 10:24:15 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 7 in /data/wwwroot/daSheng/mypay/notify.php on line 30
+[31-Aug-2018 10:24:15 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /data/wwwroot/daSheng/mypay/notify.php on line 32
+[31-Aug-2018 10:24:15 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /data/wwwroot/daSheng/mypay/notify.php on line 34
+[31-Aug-2018 10:24:15 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 10 in /data/wwwroot/daSheng/mypay/notify.php on line 36
+[31-Aug-2018 10:54:55 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 6 in /data/wwwroot/daSheng/mypay/notify.php on line 28
+[31-Aug-2018 11:41:48 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 6 in /data/wwwroot/daSheng/mypay/notify.php on line 28
+[31-Aug-2018 11:42:14 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 6 in /data/wwwroot/daSheng/mypay/notify.php on line 28
+[31-Aug-2018 12:27:42 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 6 in /data/wwwroot/daSheng/mypay/notify.php on line 28
+[31-Aug-2018 12:27:42 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 7 in /data/wwwroot/daSheng/mypay/notify.php on line 30
+[31-Aug-2018 12:27:42 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /data/wwwroot/daSheng/mypay/notify.php on line 32
+[31-Aug-2018 12:27:42 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /data/wwwroot/daSheng/mypay/notify.php on line 34
+[31-Aug-2018 12:27:42 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 10 in /data/wwwroot/daSheng/mypay/notify.php on line 36
+[31-Aug-2018 13:20:48 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 6 in /data/wwwroot/daSheng/mypay/notify.php on line 28
+[31-Aug-2018 16:30:50 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 6 in /data/wwwroot/daSheng/mypay/notify.php on line 28
+[31-Aug-2018 16:30:50 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 7 in /data/wwwroot/daSheng/mypay/notify.php on line 30
+[31-Aug-2018 16:30:50 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /data/wwwroot/daSheng/mypay/notify.php on line 32
+[31-Aug-2018 16:30:50 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /data/wwwroot/daSheng/mypay/notify.php on line 34
+[31-Aug-2018 16:30:50 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 10 in /data/wwwroot/daSheng/mypay/notify.php on line 36
+[31-Aug-2018 16:58:22 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 6 in /data/wwwroot/daSheng/mypay/notify.php on line 28
+[31-Aug-2018 16:58:22 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 7 in /data/wwwroot/daSheng/mypay/notify.php on line 30
+[31-Aug-2018 16:58:22 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /data/wwwroot/daSheng/mypay/notify.php on line 32
+[31-Aug-2018 16:58:22 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /data/wwwroot/daSheng/mypay/notify.php on line 34
+[31-Aug-2018 16:58:22 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 10 in /data/wwwroot/daSheng/mypay/notify.php on line 36
+[31-Aug-2018 17:29:51 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 6 in /data/wwwroot/daSheng/mypay/notify.php on line 28
+[31-Aug-2018 17:29:51 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 7 in /data/wwwroot/daSheng/mypay/notify.php on line 30
+[31-Aug-2018 17:29:51 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /data/wwwroot/daSheng/mypay/notify.php on line 32
+[31-Aug-2018 17:29:51 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /data/wwwroot/daSheng/mypay/notify.php on line 34
+[31-Aug-2018 17:29:51 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 10 in /data/wwwroot/daSheng/mypay/notify.php on line 36
+[31-Aug-2018 18:34:49 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 6 in /data/wwwroot/daSheng/mypay/notify.php on line 28
+[01-Sep-2018 10:31:38 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 6 in /data/wwwroot/daSheng/mypay/notify.php on line 28
+[01-Sep-2018 10:40:16 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 6 in /data/wwwroot/daSheng/mypay/notify.php on line 28
+[01-Sep-2018 11:34:33 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 6 in /data/wwwroot/daSheng/mypay/notify.php on line 28
+[01-Sep-2018 11:57:12 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 6 in /data/wwwroot/daSheng/mypay/notify.php on line 28
+[01-Sep-2018 11:57:12 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 7 in /data/wwwroot/daSheng/mypay/notify.php on line 30
+[01-Sep-2018 11:57:12 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /data/wwwroot/daSheng/mypay/notify.php on line 32
+[01-Sep-2018 11:57:12 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /data/wwwroot/daSheng/mypay/notify.php on line 34
+[01-Sep-2018 11:57:12 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 10 in /data/wwwroot/daSheng/mypay/notify.php on line 36
+[01-Sep-2018 12:04:18 Asia/Shanghai] PHP Notice:  Undefined index: p3_Amt in /data/wwwroot/daSheng/mypay/pay.php on line 4
+[01-Sep-2018 12:04:18 Asia/Shanghai] PHP Notice:  Undefined index: p2_Order in /data/wwwroot/daSheng/mypay/pay.php on line 5
+[01-Sep-2018 12:04:18 Asia/Shanghai] PHP Notice:  Undefined index: pa_MP in /data/wwwroot/daSheng/mypay/pay.php on line 6
+[01-Sep-2018 12:18:46 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 6 in /data/wwwroot/daSheng/mypay/notify.php on line 28
+[01-Sep-2018 12:40:11 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 6 in /data/wwwroot/daSheng/mypay/notify.php on line 28
+[01-Sep-2018 13:27:43 Asia/Shanghai] PHP Notice:  Undefined index: p3_Amt in /data/wwwroot/daSheng/mypay/pay.php on line 4
+[01-Sep-2018 13:27:43 Asia/Shanghai] PHP Notice:  Undefined index: p2_Order in /data/wwwroot/daSheng/mypay/pay.php on line 5
+[01-Sep-2018 13:27:43 Asia/Shanghai] PHP Notice:  Undefined index: pa_MP in /data/wwwroot/daSheng/mypay/pay.php on line 6
+[01-Sep-2018 14:57:12 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 6 in /data/wwwroot/daSheng/mypay/notify.php on line 28
+[01-Sep-2018 15:15:47 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 6 in /data/wwwroot/daSheng/mypay/notify.php on line 28
+[01-Sep-2018 15:15:47 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 7 in /data/wwwroot/daSheng/mypay/notify.php on line 30
+[01-Sep-2018 15:15:47 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /data/wwwroot/daSheng/mypay/notify.php on line 32
+[01-Sep-2018 15:15:47 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /data/wwwroot/daSheng/mypay/notify.php on line 34
+[01-Sep-2018 15:15:47 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 10 in /data/wwwroot/daSheng/mypay/notify.php on line 36
+[01-Sep-2018 15:27:34 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 6 in /data/wwwroot/daSheng/mypay/notify.php on line 28
+[01-Sep-2018 15:27:34 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 6 in /data/wwwroot/daSheng/mypay/notify.php on line 28
+[01-Sep-2018 16:20:10 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 6 in /data/wwwroot/daSheng/mypay/notify.php on line 28
+[01-Sep-2018 16:20:13 Asia/Shanghai] PHP Notice:  Undefined index: p3_Amt in /data/wwwroot/daSheng/mypay/pay.php on line 4
+[01-Sep-2018 16:20:13 Asia/Shanghai] PHP Notice:  Undefined index: p2_Order in /data/wwwroot/daSheng/mypay/pay.php on line 5
+[01-Sep-2018 16:20:13 Asia/Shanghai] PHP Notice:  Undefined index: pa_MP in /data/wwwroot/daSheng/mypay/pay.php on line 6
+[01-Sep-2018 16:20:13 Asia/Shanghai] PHP Notice:  Undefined index: p3_Amt in /data/wwwroot/daSheng/mypay/pay.php on line 4
+[01-Sep-2018 16:20:13 Asia/Shanghai] PHP Notice:  Undefined index: p2_Order in /data/wwwroot/daSheng/mypay/pay.php on line 5
+[01-Sep-2018 16:20:13 Asia/Shanghai] PHP Notice:  Undefined index: pa_MP in /data/wwwroot/daSheng/mypay/pay.php on line 6
+[01-Sep-2018 16:20:24 Asia/Shanghai] PHP Notice:  Undefined index: p3_Amt in /data/wwwroot/daSheng/mypay/pay.php on line 4
+[01-Sep-2018 16:20:24 Asia/Shanghai] PHP Notice:  Undefined index: p2_Order in /data/wwwroot/daSheng/mypay/pay.php on line 5
+[01-Sep-2018 16:20:24 Asia/Shanghai] PHP Notice:  Undefined index: pa_MP in /data/wwwroot/daSheng/mypay/pay.php on line 6
+[01-Sep-2018 16:20:24 Asia/Shanghai] PHP Notice:  Undefined index: p3_Amt in /data/wwwroot/daSheng/mypay/pay.php on line 4
+[01-Sep-2018 16:20:24 Asia/Shanghai] PHP Notice:  Undefined index: p2_Order in /data/wwwroot/daSheng/mypay/pay.php on line 5
+[01-Sep-2018 16:20:24 Asia/Shanghai] PHP Notice:  Undefined index: pa_MP in /data/wwwroot/daSheng/mypay/pay.php on line 6
+[01-Sep-2018 16:21:24 Asia/Shanghai] PHP Notice:  Undefined index: p3_Amt in /data/wwwroot/daSheng/mypay/pay.php on line 4
+[01-Sep-2018 16:21:24 Asia/Shanghai] PHP Notice:  Undefined index: p2_Order in /data/wwwroot/daSheng/mypay/pay.php on line 5
+[01-Sep-2018 16:21:24 Asia/Shanghai] PHP Notice:  Undefined index: pa_MP in /data/wwwroot/daSheng/mypay/pay.php on line 6
+[01-Sep-2018 16:21:25 Asia/Shanghai] PHP Notice:  Undefined index: p3_Amt in /data/wwwroot/daSheng/mypay/pay.php on line 4
+[01-Sep-2018 16:21:25 Asia/Shanghai] PHP Notice:  Undefined index: p2_Order in /data/wwwroot/daSheng/mypay/pay.php on line 5
+[01-Sep-2018 16:21:25 Asia/Shanghai] PHP Notice:  Undefined index: pa_MP in /data/wwwroot/daSheng/mypay/pay.php on line 6
+[01-Sep-2018 16:21:36 Asia/Shanghai] PHP Notice:  Undefined index: p3_Amt in /data/wwwroot/daSheng/mypay/pay.php on line 4
+[01-Sep-2018 16:21:36 Asia/Shanghai] PHP Notice:  Undefined index: p2_Order in /data/wwwroot/daSheng/mypay/pay.php on line 5
+[01-Sep-2018 16:21:36 Asia/Shanghai] PHP Notice:  Undefined index: pa_MP in /data/wwwroot/daSheng/mypay/pay.php on line 6
+[01-Sep-2018 16:21:37 Asia/Shanghai] PHP Notice:  Undefined index: p3_Amt in /data/wwwroot/daSheng/mypay/pay.php on line 4
+[01-Sep-2018 16:21:37 Asia/Shanghai] PHP Notice:  Undefined index: p2_Order in /data/wwwroot/daSheng/mypay/pay.php on line 5
+[01-Sep-2018 16:21:37 Asia/Shanghai] PHP Notice:  Undefined index: pa_MP in /data/wwwroot/daSheng/mypay/pay.php on line 6
+[01-Sep-2018 16:23:16 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 6 in /data/wwwroot/daSheng/mypay/notify.php on line 28
+[01-Sep-2018 16:28:40 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 6 in /data/wwwroot/daSheng/mypay/notify.php on line 28
+[01-Sep-2018 16:44:13 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 6 in /data/wwwroot/daSheng/mypay/notify.php on line 28
+[01-Sep-2018 17:17:42 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 6 in /data/wwwroot/daSheng/mypay/notify.php on line 28
+[01-Sep-2018 17:17:42 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 7 in /data/wwwroot/daSheng/mypay/notify.php on line 30
+[01-Sep-2018 17:17:42 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /data/wwwroot/daSheng/mypay/notify.php on line 32
+[01-Sep-2018 17:17:42 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /data/wwwroot/daSheng/mypay/notify.php on line 34
+[01-Sep-2018 17:17:42 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 10 in /data/wwwroot/daSheng/mypay/notify.php on line 36
+[01-Sep-2018 17:19:34 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 6 in /data/wwwroot/daSheng/mypay/notify.php on line 28
+[01-Sep-2018 17:34:07 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 6 in /data/wwwroot/daSheng/mypay/notify.php on line 28
+[01-Sep-2018 18:21:50 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 6 in /data/wwwroot/daSheng/mypay/notify.php on line 28
+[01-Sep-2018 18:21:50 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 7 in /data/wwwroot/daSheng/mypay/notify.php on line 30
+[01-Sep-2018 18:21:50 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /data/wwwroot/daSheng/mypay/notify.php on line 32
+[01-Sep-2018 18:21:50 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /data/wwwroot/daSheng/mypay/notify.php on line 34
+[01-Sep-2018 18:21:50 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 10 in /data/wwwroot/daSheng/mypay/notify.php on line 36
+[01-Sep-2018 18:33:12 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 6 in /data/wwwroot/daSheng/mypay/notify.php on line 28
+[01-Sep-2018 18:33:12 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 7 in /data/wwwroot/daSheng/mypay/notify.php on line 30
+[01-Sep-2018 18:33:12 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /data/wwwroot/daSheng/mypay/notify.php on line 32
+[01-Sep-2018 18:33:12 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /data/wwwroot/daSheng/mypay/notify.php on line 34
+[01-Sep-2018 18:33:12 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 10 in /data/wwwroot/daSheng/mypay/notify.php on line 36
+[01-Sep-2018 20:53:09 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 6 in /data/wwwroot/daSheng/mypay/notify.php on line 28
+[01-Sep-2018 20:53:09 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 7 in /data/wwwroot/daSheng/mypay/notify.php on line 30
+[01-Sep-2018 20:53:09 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /data/wwwroot/daSheng/mypay/notify.php on line 32
+[01-Sep-2018 20:53:09 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /data/wwwroot/daSheng/mypay/notify.php on line 34
+[01-Sep-2018 20:53:09 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 10 in /data/wwwroot/daSheng/mypay/notify.php on line 36
+[01-Sep-2018 20:56:48 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 6 in /data/wwwroot/daSheng/mypay/notify.php on line 28
+[01-Sep-2018 20:56:48 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 7 in /data/wwwroot/daSheng/mypay/notify.php on line 30
+[01-Sep-2018 20:56:48 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /data/wwwroot/daSheng/mypay/notify.php on line 32
+[01-Sep-2018 20:56:48 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /data/wwwroot/daSheng/mypay/notify.php on line 34
+[01-Sep-2018 20:56:48 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 10 in /data/wwwroot/daSheng/mypay/notify.php on line 36
+[02-Sep-2018 12:12:07 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 6 in /data/wwwroot/daSheng/mypay/notify.php on line 28
+[02-Sep-2018 12:12:07 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 7 in /data/wwwroot/daSheng/mypay/notify.php on line 30
+[02-Sep-2018 12:12:07 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /data/wwwroot/daSheng/mypay/notify.php on line 32
+[02-Sep-2018 12:12:07 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /data/wwwroot/daSheng/mypay/notify.php on line 34
+[02-Sep-2018 12:12:07 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 10 in /data/wwwroot/daSheng/mypay/notify.php on line 36
+[02-Sep-2018 14:21:52 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 6 in /data/wwwroot/daSheng/mypay/notify.php on line 28
+[02-Sep-2018 14:21:52 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 7 in /data/wwwroot/daSheng/mypay/notify.php on line 30
+[02-Sep-2018 14:21:52 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /data/wwwroot/daSheng/mypay/notify.php on line 32
+[02-Sep-2018 14:21:52 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /data/wwwroot/daSheng/mypay/notify.php on line 34
+[02-Sep-2018 14:21:52 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 10 in /data/wwwroot/daSheng/mypay/notify.php on line 36
+[02-Sep-2018 20:18:27 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 6 in /data/wwwroot/daSheng/mypay/notify.php on line 28
+[03-Sep-2018 13:54:04 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 6 in /data/wwwroot/daSheng/mypay/notify.php on line 28
+[03-Sep-2018 13:54:04 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 7 in /data/wwwroot/daSheng/mypay/notify.php on line 30
+[03-Sep-2018 13:54:04 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /data/wwwroot/daSheng/mypay/notify.php on line 32
+[03-Sep-2018 13:54:04 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /data/wwwroot/daSheng/mypay/notify.php on line 34
+[03-Sep-2018 13:54:04 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 10 in /data/wwwroot/daSheng/mypay/notify.php on line 36
+[03-Sep-2018 14:30:29 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 6 in /data/wwwroot/daSheng/mypay/notify.php on line 28
+[03-Sep-2018 14:30:29 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 7 in /data/wwwroot/daSheng/mypay/notify.php on line 30
+[03-Sep-2018 14:30:29 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /data/wwwroot/daSheng/mypay/notify.php on line 32
+[03-Sep-2018 14:30:29 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /data/wwwroot/daSheng/mypay/notify.php on line 34
+[03-Sep-2018 14:30:29 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 10 in /data/wwwroot/daSheng/mypay/notify.php on line 36
+[04-Sep-2018 16:18:41 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 6 in /data/wwwroot/daSheng/mypay/notify.php on line 28
+[04-Sep-2018 16:18:41 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 7 in /data/wwwroot/daSheng/mypay/notify.php on line 30
+[04-Sep-2018 16:18:41 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /data/wwwroot/daSheng/mypay/notify.php on line 32
+[04-Sep-2018 16:18:41 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /data/wwwroot/daSheng/mypay/notify.php on line 34
+[04-Sep-2018 16:18:41 Asia/Shanghai] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 10 in /data/wwwroot/daSheng/mypay/notify.php on line 36
+[06-Sep-2018 10:39:52 Asia/Shanghai] PHP Notice:  Undefined index: p3_Amt in /data/wwwroot/daSheng/mypay/pay.php on line 4
+[06-Sep-2018 10:39:52 Asia/Shanghai] PHP Notice:  Undefined index: p2_Order in /data/wwwroot/daSheng/mypay/pay.php on line 5
+[06-Sep-2018 10:39:52 Asia/Shanghai] PHP Notice:  Undefined index: pa_MP in /data/wwwroot/daSheng/mypay/pay.php on line 6

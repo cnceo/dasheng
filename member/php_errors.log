@@ -4,3 +4,8 @@
 [28-Aug-2018 17:23:07 Asia/Shanghai] PHP Warning:  include_once(../class/BiApi.class.php): failed to open stream: No such file or directory in /data/wwwroot/daSheng/member/zr_money.php on line 2
 [28-Aug-2018 17:23:07 Asia/Shanghai] PHP Warning:  include_once(): Failed opening '../class/BiApi.class.php' for inclusion (include_path='.:/usr/local/php/lib/php') in /data/wwwroot/daSheng/member/zr_money.php on line 2
 [28-Aug-2018 17:23:07 Asia/Shanghai] PHP Fatal error:  Class 'Biapi' not found in /data/wwwroot/daSheng/member/zr_money.php on line 21
+[30-Aug-2018 18:01:18 Asia/Shanghai] PHP Warning:  include_once(../class/BiApi.class.php): failed to open stream: No such file or directory in /data/wwwroot/daSheng/member/123.php on line 2
+[30-Aug-2018 18:01:18 Asia/Shanghai] PHP Warning:  include_once(): Failed opening '../class/BiApi.class.php' for inclusion (include_path='.:/usr/local/php/lib/php') in /data/wwwroot/daSheng/member/123.php on line 2
+[30-Aug-2018 18:01:18 Asia/Shanghai] PHP Notice:  Undefined index: username in /data/wwwroot/daSheng/member/123.php on line 7
+[30-Aug-2018 18:01:18 Asia/Shanghai] PHP Notice:  Undefined index: user in /data/wwwroot/daSheng/member/123.php on line 10
+[30-Aug-2018 18:01:18 Asia/Shanghai] PHP Fatal error:  Class 'Biapi' not found in /data/wwwroot/daSheng/member/123.php on line 21
